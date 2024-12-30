@@ -12,6 +12,6 @@ public class Main {
         towns.add("Bergen");
         System.out.println(towns);
         towns.set(1, "Milan");
-
+        System.out.println(towns);
     }
 }
