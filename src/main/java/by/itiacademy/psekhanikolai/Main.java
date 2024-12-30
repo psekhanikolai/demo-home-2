@@ -23,5 +23,7 @@ public class Main {
             }
         }
         System.out.println(townMax);
+        towns.remove(1);
+        System.out.println(towns);
     }
 }
