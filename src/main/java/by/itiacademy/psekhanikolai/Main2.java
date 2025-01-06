@@ -11,5 +11,6 @@ public class Main2 {
         names.add("Kristian");
         names.add("Marian");
         System.out.println(names);
+        names.set(4, "Michael");
     }
 }
